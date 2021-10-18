@@ -1,0 +1,4 @@
+1.Potter, Harry, hp@mail.com, 555-555-5555, Wizard School,
+2.Granger, Hermione, hg@mail.com, 123-456-7890, Hogwarts,
+3.surname1, given name1, email1@email.com, ###-###-####, address1
+4.surname2, given name2, another@email.com, ???-???-????, address2
