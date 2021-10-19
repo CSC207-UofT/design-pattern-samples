@@ -12,8 +12,7 @@ public class Main {
     /**
      * The name of the file in which the contacts are stored.
      */
-    //TODO: fix this path so it will work in repo we post
-    private static final String BOOK_FILE = "./design_patterns/addresses.txt";
+    private static final String BOOK_FILE = "addresses.txt";
 
     /**
      * @param args the command line arguments
